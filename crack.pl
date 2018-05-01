@@ -9,7 +9,7 @@ use Math::Complex;
 ## I then look for unusual occurances of numbers within the divided 
 ## answers.  If a number occurs more than 15% of the total length, I 
 ## consider it a potential hit, which could represent a cipher, to be cracked.
-## ALL CODE IS MINE, Do not use without permission. 
+
 ## Email: sean.greathouse@gmail.com
 
 print "Enter your number: ";
